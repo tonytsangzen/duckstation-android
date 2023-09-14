@@ -1,0 +1,3 @@
+include ':emulator'
+rootProject.name='duckstation'
+include ':test'
